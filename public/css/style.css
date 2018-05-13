@@ -2,13 +2,11 @@ html
 {
  height: 100%;
 }
-
 *
 { 
   margin: 0;
   padding: 0;
 }
-
 body
 {
  font: normal .80em 'trebuchet ms', arial, sans-serif;
